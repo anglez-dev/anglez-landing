@@ -1,12 +1,12 @@
-/**  
+/**
   * Row
   * Title section
   * Requestform
-  * Comment-respond 
+  * Comment-respond
   * Overviews
   * Flat client style1
   * Flat video fancybox
-  * Flat tabs 
+  * Flat tabs
   * Animations-wrap
   * Awesome-features
   * Feature-info
@@ -33,7 +33,7 @@
 }
 
 .flat-row.row-overview {
-    padding: 119px 0 129px 0;    
+    padding: 119px 0 129px 0;
 }
 
 .flat-row.row-nopading {
@@ -57,7 +57,7 @@
 }
 
 .flat-row.flat-sweet-animations {
-    padding: 180px 0 0 0;    
+    padding: 180px 0 0 0;
 }
 
 .flat-row.flat-papi-app {
@@ -73,7 +73,7 @@
     padding-bottom: 0;
 }
 
-/* Title-section 
+/* Title-section
 --------------------------------------------------------*/
 .title-section  {
     margin-bottom: 70px;
@@ -90,8 +90,8 @@
     margin-bottom: 11px;
 }
 
-.title-section .title {  
-    font-family: "Lato", sans-serif;  
+.title-section .title {
+    font-family: "Lato", sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 35px;
@@ -113,7 +113,7 @@
     font-size: 36px;
     line-height: 35px;
     font-weight: 700;
-    color: #232323; 
+    color: #232323;
     text-align: left;
 
 }
@@ -198,7 +198,7 @@ input[type=radio].css-radio {
 
 input[type=checkbox].css-checkbox + label.css-label {
     padding-left: 24px;
-    height: 18px; 
+    height: 18px;
     display: inline-block;
     line-height: 18px;
     background-repeat: no-repeat;
@@ -251,7 +251,7 @@ label.css-label {
     padding: 0 0;
 }
 
-/*Comment-respond 
+/*Comment-respond
 ----------------------------------------------------- */
 .comment-form  textarea::-webkit-input-placeholder,
 .comment-form  input::-webkit-input-placeholder {
@@ -288,7 +288,7 @@ label.css-label {
     text-transform: none;
     padding-top: 8px;
     padding-right: 26px;
-    margin-bottom: 41px; 
+    margin-bottom: 41px;
 }
 
 .wrap-overview {
@@ -458,24 +458,27 @@ label.css-label {
 
 .iconbox.inline-right .box-icon:before {
     content: "";
-    width: 53px;
-    height: 48px;
+    width: 60px;
+    height: 55px;
     position: absolute;
     background-image: url(../images/icon/1.png);
+    background-repeat: no-repeat;
     top: 25px;
     right: -87px;
 }
 
 .iconbox.inline-right .box-icon.index1:before {
-    width: 46px;
+    width: 60px;
     height: 51px;
     background-image: url(../images/icon/2.png);
+    background-repeat: no-repeat;
 }
 
 .iconbox.inline-right .box-icon.index2:before {
-    width: 51px;
+    width: 60px;
     height: 46px;
     background-image: url(../images/icon/3.png);
+    background-repeat: no-repeat;
 }
 
 .iconbox.inline-left {
@@ -486,25 +489,30 @@ label.css-label {
 
 .iconbox.inline-left .box-icon:before {
     content: "";
-    width: 47px;
+    width: 60px;
     height: 48px;
     position: absolute;
     background-image: url(../images/icon/4.png);
     top: 23px;
     left: -65px;
+    background-repeat: no-repeat;
 
 }
 
 .iconbox.inline-left .box-icon.index3:before {
-    width: 47px;
+    width: 60px;
     height: 60px;
     background-image: url(../images/icon/5.png);
+    background-repeat: no-repeat;
+
 }
 
 .iconbox.inline-left .box-icon.index4:before {
-    width: 48px;
+    width: 60px;
     height: 56px;
     background-image: url(../images/icon/6.png);
+    background-repeat: no-repeat;
+
 }
 
 
@@ -544,7 +552,7 @@ label.css-label {
 }
 
 .pad-17 {
-    padding-top: 87px; 
+    padding-top: 87px;
 
 }
 
@@ -572,15 +580,15 @@ label.css-label {
     text-align: center;
     font-size: 12px;
     font-weight: 400;
-    margin-bottom: 60px;  
-    color: #ffffff; 
+    margin-bottom: 60px;
+    color: #ffffff;
 }
 
 .flat-wrapper .flat-portfolio .portfolio-filter li  {
     display: inline-block;
     padding-left: 25px;
     padding-right: 25px;
-    position:relative;    
+    position:relative;
 }
 
 .flat-wrapper .flat-portfolio .portfolio-filter li a {
@@ -606,7 +614,7 @@ label.css-label {
     content:"";
 }
 
-/*Flat tabs 
+/*Flat tabs
 --------------------------------------------------- */
 .flat-tabs {
     margin: 0;
@@ -614,7 +622,7 @@ label.css-label {
 }
 
 .flat-tabs ul.menu-tab {
-    background-color: #333333; 
+    background-color: #333333;
     border-radius: 5px;
     margin: 0;
     overflow: inherit;
@@ -630,7 +638,7 @@ label.css-label {
 }
 
 .flat-tabs ul.menu-tab li:last-child {
-    padding-right: 0px; 
+    padding-right: 0px;
 }
 
 
@@ -680,7 +688,7 @@ ul.flat-list.style1 li span {
     -ms-border-radius: 0;
     -o-border-radius: 0;
     border-radius: 0;
-} 
+}
 
 .flat-tabs ul.menu-tab li > a {
     display: block;
@@ -704,7 +712,7 @@ ul.flat-list.style1 li span {
 }
 
 .flat-sweet-animations .animations-wrap {
-    padding: 0 16px 0 26px;    
+    padding: 0 16px 0 26px;
 }
 
 .mg-81 {
@@ -858,7 +866,7 @@ ul.flat-list.style1 li span {
     background-color: #f6f6f6;
     border-radius: 3px;
     margin-bottom: 18px;
-    margin-left: 15px; 
+    margin-left: 15px;
 }
 
 .list-wrap .list-box:hover {
@@ -945,7 +953,7 @@ ul.flat-list.style1 li span {
 
 /* pricing-table
 -------------------------------------------------------------- */
-.pricing-table {    
+.pricing-table {
     position: relative;
     border: 1px solid #f3f3f3;
     border-radius: 10px;
@@ -1004,7 +1012,7 @@ ul.flat-list.style1 li span {
 }
 
 .pricing-table ul.features li.data:before {
-    content: "\f023"; 
+    content: "\f023";
 }
 
 .pricing-table ul.features li.user:before {
@@ -1012,7 +1020,7 @@ ul.flat-list.style1 li span {
 }
 
 .pricing-table ul.features li.dolar:before {
-    content: "\f196";  
+    content: "\f196";
 }
 
 .pricing-table .price {
@@ -1066,7 +1074,7 @@ ul.flat-list.style1 li span {
 }
 
 .pricing-table:hover{
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.06); 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.06);
     cursor: pointer;
 }
 
@@ -1191,7 +1199,7 @@ ul.flat-list.style1 li span {
 /* Testimonials */
 .flat-row.background-white {
     padding: 0;
-    margin-top: -142px;   
+    margin-top: -142px;
 }
 
 .background-white {
@@ -1200,7 +1208,7 @@ ul.flat-list.style1 li span {
     border-right: 50px solid transparent;
     height: 0;
     box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, 0.15);
-    position: relative;    
+    position: relative;
 }
 
 .flat-testimonial.style1:before {
@@ -1213,7 +1221,7 @@ ul.flat-list.style1 li span {
     border-left: 3px solid transparent;
     border-right: 3px solid transparent;
     z-index: 9999;
-    opacity: 0.5;   
+    opacity: 0.5;
 }
 
 .flat-testimonial.style1:after {
@@ -1337,15 +1345,15 @@ ul.flat-list.style1 li span {
 
 }
 
-/*Flat-testimonial 
+/*Flat-testimonial
 ---------------------------------------------------------- */
 .flat-testimonial.style1 .flex-direction-nav  {
     position: relative;
-    top: -105px;  
+    top: -105px;
 }
 
 .flat-testimonial.style1 ul.flex-direction-nav li a  {
-    background: transparent; 
+    background: transparent;
     border: 1px solid #e5e5e5;
 }
 
@@ -1358,4 +1366,3 @@ ul.flat-list.style1 li span {
 .flat-testimonial.style1 ul.flex-direction-nav li a i {
     color: #e5e5e5;
 }
-
